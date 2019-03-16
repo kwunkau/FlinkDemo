@@ -1,4 +1,4 @@
-package com.kwunkau
+package com.kwunkau.batch
 
 import org.apache.flink.api.java.utils.ParameterTool
 import org.apache.flink.streaming.api.scala.StreamExecutionEnvironment

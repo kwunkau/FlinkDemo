@@ -1,4 +1,4 @@
-package com.kwunkau.util;
+package com.kwunkau.batch.util;
 
 /**
  * Provides the default data sets used for the WordCount example program.

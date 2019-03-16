@@ -1,4 +1,4 @@
-package com.kwunkau.util;
+package com.kwunkau.batch.util;
 
 /*
  * Licensed to the Apache Software Foundation (ASF) under one
